@@ -1,0 +1,38 @@
+cff-version: 1.1.0
+message: "If you use this software or experimental code, please cite both the repository and the associated Master's thesis."
+authors:
+- family-names: Joe
+  given-names: Johnson
+orcid: https://orcid.org/0009-0003-1130-0885
+title:pyjavo/comparativas-deep-learning-reconocimiento-kanji-japoneses: Código inicial de 2022
+version: v1.0.0
+date-released: 2026-11-16
+repository-code: "https://github.com/pyjavo/comparativas-deep-learning-reconocimiento-kanji-japoneses"
+url: "https://github.com/pyjavo/comparativas-deep-learning-reconocimiento-kanji-japoneses"
+abstract: >-
+  Source code and experimental configurations comparing five deep convolutional
+  neural network architectures (VGG16, VGG19, DenseNet121, ResNet50, and
+  ResNet152V2) for offline handwritten Japanese Kanji character recognition
+  across ETL-8G and ETL-9G datasets, varying image dimensions, background color
+  inversion, and Otsu thresholding.
+keywords:
+  - "deep learning"
+  - "convolutional neural networks"
+  - "japanese character recognition"
+  - "kanji"
+  - "computer vision"
+  - "ETL8"
+  - "ETL9"
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Comparativa de Técnicas de Aprendizaje Profundo en el Reconocimiento de Caracteres Japoneses"
+  authors:
+    - family-names: "Daza Comas"
+      given-names: "Javier"
+  year: 2022
+  month: 10
+  institution:
+    name: "Universidad Internacional de La Rioja"
+  thesis-type: "Master's thesis"
+  doi: "https://doi.org/10.5281/zenodo.24287424"
